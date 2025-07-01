@@ -32,7 +32,7 @@ The notebook and Python script cover the full workflow, from data preprocessing 
 
 **Clone the repository:**
    ```bash
-   git clone https://github.com/<luffy-taro-106>/Implied-volatility-prediction.git
+   git clone https://github.com/luffy-taro-106/Implied-volatility-prediction.git
    cd Implied-volatility-prediction
    ```
 ---
